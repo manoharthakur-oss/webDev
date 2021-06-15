@@ -1,0 +1,9 @@
+COMPARING STRINGS (===)
+
+- "apple" === "apple" is true
+- "apple" === "orange" is false
+- "apple" !== "apple" is false
+- "apple" !== "orange" is true
+
+
+

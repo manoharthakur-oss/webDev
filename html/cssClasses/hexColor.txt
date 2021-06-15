@@ -1,0 +1,6 @@
+👉we can add colours using hex codes
+- '#' is followed by 6 characters.
+- it works on RGB theory.
+- we can access over 6 million colour combinations.
+- 
+

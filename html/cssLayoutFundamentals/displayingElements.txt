@@ -1,0 +1,16 @@
+- Headings and paragraph a line by line.
+- buttons and links appear in a same row.
+- display property decides whether or not element appear on a same line.
+- for "a" elements display default value is inline.
+- height and width don't work on inline elements. as they wrap the content inside them.
+- examples of inline elements are a, strong, li and em . they all appear in same line when coded after each other. 
+- NORMAL FLOW : the way elements display on the web page by default.
+
+>>>>>>>>>>>>
+DISPLAY: BLOCK;
+
+- elements like "p","div","h3" are different from inline elements.
+- they appear line by line.
+- destek entire width of their parent.
+- display: block;
+- 

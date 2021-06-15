@@ -1,0 +1,8 @@
+child elements:
+	- child element is inside parent element
+	- there can be more than one child element in parent element
+	- border, margin and padding are affected only in parent element like <div> not in child element
+	- but properties like colour are transferred to child element.
+	- INHERITANCE when child element receive a property from parent.
+	- but there is no rule which is generated which is not, so we have to learn manually.
+	- 

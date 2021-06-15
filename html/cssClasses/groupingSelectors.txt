@@ -1,0 +1,14 @@
+GROUPING THE SELECTORS
+- 
+- suppose we have to set same text style for all buttons and paragraphs
+- one option is we manually set those by different selectors of button and paragraph respectively.
+- are instead of using new rule we can use same rule for two elements.
+- two selectors must be, separated.
+- example: p , button {
+						color: black;
+						}
+- this will help us to group different elements under same rule.
+- we can use any kind of selector example ".abc"
+- we can add as many selector we want.
+- #styling multiple element with same rule.
+- 

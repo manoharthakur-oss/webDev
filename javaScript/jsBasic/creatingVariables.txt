@@ -1,0 +1,10 @@
+SETTING VARIABLE
+- var value = 100;
+
+
+PRINTING
+- console.log(value);
+
+- CONSOLE:
+	- an area that displays output.
+

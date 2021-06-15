@@ -1,0 +1,6 @@
+- when we resize element using PX they remain same on every size of screen.
+- we can size using percentage according to parent element.
+- example. 50% width of a image in div.
+- percentage always refer directly to parent element.
+- when there is no parent element it will extend the web page.
+- 

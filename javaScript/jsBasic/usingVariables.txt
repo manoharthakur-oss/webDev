@@ -1,0 +1,14 @@
+
+
+- the value of variables is variable.
+- we do not have to write var again and again once variable is created.
+
+
+- string array values can be added similar to python.
+- we can use plus minus multiplication division similar to python.
+
+BOOLS
+- true and false in JavaScript is also same as python.
+- '!' we can use navigation operator in true and false #NOTsameaspython
+- '!' can also be used with variable storing true and false.
+

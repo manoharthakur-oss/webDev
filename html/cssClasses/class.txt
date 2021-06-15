@@ -1,0 +1,8 @@
+class:
+	<p class="throne-successor">Prince George</p>	#syntax
+	now in successor we have to write .thrones-successor instead of .p
+	
+
+
+
+👉 we can change in Heritage properties by overriding them.

@@ -1,0 +1,8 @@
+- we can add multiple classes in single element.
+- syntax class = "a b"
+- the two classes just need to be separated by whitespace.
+- similarly we can add as many as classes we want
+- #amazing
+- this will help us to to design the content using less CSS.
+- or we can say this will help us to combine multiple styles.
+- 

@@ -1,0 +1,10 @@
+
+ EQUALITY OPERATOR (===)
+- "===" comparing equality.
+- "===" comparing inequality.
+
+COMPARISON OPERATORS IN JAVASCRIPT
+- > ; <
+- >= ; <=
+- to check that number x must be at least n. we use x >= n vice-versa.
+

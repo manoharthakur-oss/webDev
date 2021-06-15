@@ -1,0 +1,6 @@
+filter:
+	contrast
+	saturation
+	blurr
+	opacity
+	brightness
