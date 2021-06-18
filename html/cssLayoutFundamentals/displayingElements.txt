@@ -1,3 +1,5 @@
+- to change the way how element look we have to just change display property in CSS stylesheet.
+
 - Headings and paragraph a line by line.
 - buttons and links appear in a same row.
 - display property decides whether or not element appear on a same line.
@@ -14,3 +16,13 @@ DISPLAY: BLOCK;
 - destek entire width of their parent.
 - display: block;
 - 
+
+- elements like images and buttons have different display layout that is inline-block.
+- INLINE-BLOCK:
+	- this allowed us to put element in same line.
+	- and also we can change the size of elements.
+	- examples are buttons and images.
+	- when we change the size of an inline block element:
+		the size changes. it is the the one of the features of inline block elements.
+	- example if we change the display value of all div elements: to inline block
+		they all will appear in a same line

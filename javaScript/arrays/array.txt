@@ -1,0 +1,9 @@
+- arrays in JS are similar to list in python.
+	#syntax
+
+- we use square braces.
+- commas to separate when more value.
+- arrays are infinite in JS.
+- ELEMENTS: values inside arrays.
+
+

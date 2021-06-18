@@ -1,0 +1,5 @@
+linking local web pages as well as web pages.
+- we use <a href="/aliens.html">Aliens</a> tag.
+- we skiing in href parameter.
+- local link always start with a slash /
+- remote link do not start with backslash.

@@ -1,0 +1,11 @@
+ABSOLUTE POSITION:
+	- position:absolute
+		 right:xpx
+		this
+		means inner element is X pixels away from right side of outer element.
+	- cause over lapping
+	- element is taken out from normal flow.
+	#relative-normalflow
+	#absolute-abnormalflow
+	
+	

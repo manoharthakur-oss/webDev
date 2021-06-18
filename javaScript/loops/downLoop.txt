@@ -1,0 +1,7 @@
+DOWNLOAD LOOP
+
+for (var i = 5; i >= 0; i--) {
+ console.log(i);
+}
+
+- we see i-- in downward loop usually.

@@ -1,0 +1,30 @@
+
+
+FLEX-DIRECTION:
+
+- flexbox allow us to change the the content layout without even touching HTML.
+- to decide the direction of flexbox we use flex direction property.
+	row
+	column
+- the default value for flex direction is row.
+- when we set flex direction value to column the width of
+	flex items automatically stretch to to the width of flex container.
+- 
+
+
+- we can easily reverse the direction in flexbox.
+	row-reverse
+	col-reverse
+- remember this property only apply to flex container not flex item.
+- flexbox is designed to to work with websites in different languages.
+- MAIN AXIS:
+	horizontal
+	vertical
+- flex direction define the main axis.
+- CROSS AXIS: imaginary line perpendicular to main axis.
+- cross access for row and row-reverse is vertical.
+- for column and coloum-reverse is always horizontal.
+- cross axis and main axis are always perpendicular to each other.
+
+
+

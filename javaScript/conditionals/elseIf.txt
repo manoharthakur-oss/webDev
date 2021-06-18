@@ -1,0 +1,16 @@
+CONDITIONS
+CONDITIONALS
+
+- if else similar to java.
+
+
+
+else if code block
+- this blocks runs only if the block before it is false.
+
+
+- else statement it is placed after if if and else if statement.
+- before 'else' statement we can add as many 'as else if' statements
+
+
+

@@ -1,0 +1,13 @@
+#floatPtoperty
+
+FLOATING IMAGES: images with text wrap around them.
+
+how to make floating images?
+- first display image then a text below it.
+- now we can set float property to left and right.
+- now in the next line if we do not want it takes to wrap around image:
+	in that case we set elements clear property to same as that of image above.
+
+#clearProperty
+
+- we can add this property to the element we do not want to wrap around image.

@@ -1,0 +1,3 @@
+COUNTER VARIABLE :
+	- variable that counts number of times a loop will run.
+	- 

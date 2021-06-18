@@ -1,0 +1,11 @@
+Website simple layout:
+	header:
+		logo:
+		website name:
+	
+	navigation:
+	
+	
+	body and content:
+
+	

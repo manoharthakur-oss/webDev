@@ -1,0 +1,14 @@
+JUSTIFY-CONTENT:
+
+- justifying means changing how groups are are arranged and spaced in main axis.
+- justify content property val ues:
+	- flex-start #default all the values are arrange in beginning of the container.
+	- flex-end
+	- 
+- it also works range flex direction is set to column.
+- it doesn't change the order of elements.
+- this property also be should inside flex container.
+
+
+
+

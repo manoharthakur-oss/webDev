@@ -1,0 +1,5 @@
+
+arguments we can give directly to image tag r:
+	src
+	height
+	width

@@ -1,0 +1,12 @@
+#INPUT
+
+PLACEHOLDER.:
+	- Email
+	- Password
+	- etc. 
+
+INPUT TYPE:
+	- password
+	- checkbox
+	- range
+	- etc. 

@@ -1,0 +1,19 @@
+while (true) {
+ console.log("and again");
+}
+- while loop in JavaScript is same as Java.
+- we should remember that code inside curly braces "{}" is called code block.
+
+STOPPING A WHILE LOOP:
+	- first we create a variable outside while loop.
+	- no use that variable in condition of while loop.
+	- and inside the code block of while loop which is the value of variable
+		in such a way that condition of while loop will become false
+		and the loop will terminate.
+	
+	NOTE - WE SHOULD UNDERSTAND THAT IF THERE IS NO VARIABLE IN CONDITION
+			then the loop will run forever.
+			
+	
+
+

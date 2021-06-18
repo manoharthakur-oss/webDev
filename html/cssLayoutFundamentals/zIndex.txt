@@ -1,0 +1,6 @@
+ZINDEX
+
+- z decides which element would be over other element.
+- the default value for z index is 0
+- we can do negative z-indexing to.
+- elements with higher z-index are always in front.

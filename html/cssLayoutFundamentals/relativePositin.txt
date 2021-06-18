@@ -1,0 +1,14 @@
+POSITION = RELATIVE
+top
+left
+right
+bottom
+
+- if we set value of position to relative :
+	- u decide to change element's position wet it's original position.
+	- other elements treat it like it is still on it's original position.
+
+
+- example when we set top = 30 PX element
+	get pushed away by 30px.
+	

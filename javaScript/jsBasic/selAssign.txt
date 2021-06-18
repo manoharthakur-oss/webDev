@@ -1,0 +1,11 @@
+
+
+- self assignment can also be done by writing. 
+	+=
+	-=
+	#likepython
+
+- increment/decrement operators are also valid.
+	++
+	--
+

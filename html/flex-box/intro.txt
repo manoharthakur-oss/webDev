@@ -1,0 +1,50 @@
+FLEXBOX
+
+- this is the one of the newest feature in CSS.
+- it helps to adapt elements in different size and shape of screens.
+- to apply flex box we have to make sure that we have a parent and child elements in it.
+- FLEX-CONTAINER : the parent element.
+- FLEX ITEMS: items inside flex container.
+- initial code
+<!doctype html>
+<html>
+ <head>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <div class="container">
+   <div class="item">1</div>
+   <div class="item">2</div>
+   <div class="item">3</div>
+   <div class="item">4</div>
+  </div>
+ </body>
+</html>
+
+- to apply flex box we have to set
+	DISPLAY=FLEX of FLEX-CONTAINER
+- 
+
+
+display:flex;
+
+- by default flexbox try to put all the the elements in one row.
+- flex item automatically stretch to fill their container height.
+- flex items are as wide as content inside them.
+- flex item can shrink their width so they can fit in 1 row of the container.
+- sometime flex item has content inside them that cannot be broken.
+	for example a long word.
+- in that case if the width of flex item is greater than width of container
+	then flex item overflow outside the container.
+- flip box effect the inline and blocked items in same way.
+	for example if we put a button inside flexbox having height 100
+	then the height of button will automatically become hundred.
+- flexbox is the first step to make our web page responsive.
+- 
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+for loops in JavaScript syntax:-
+```
+for (var i = 0; i < 4; i++) {
+ console.log("**********---------");
+}
+
+for (var i = 0; i < 4; i++) {
+ console.log("-------------------");
+}
+```
+#sameasJava
+
+for(counter variable; condition; updating the variable) {
+	//code
+}
+
+
+
+
+
+
