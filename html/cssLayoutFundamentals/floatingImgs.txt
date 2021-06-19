@@ -1,4 +1,4 @@
-#floatPtoperty
+#float
 
 FLOATING IMAGES: images with text wrap around them.
 
